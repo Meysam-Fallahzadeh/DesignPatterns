@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Creational", "Creational", "{B6C5716A-437A-4C7D-AFF5-E3012A33CEEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethod", "FactoryMethod\FactoryMethod.csproj", "{FEA47962-E05B-4FF6-AABC-D1FAF2B11D28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEA47962-E05B-4FF6-AABC-D1FAF2B11D28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEA47962-E05B-4FF6-AABC-D1FAF2B11D28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEA47962-E05B-4FF6-AABC-D1FAF2B11D28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEA47962-E05B-4FF6-AABC-D1FAF2B11D28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FEA47962-E05B-4FF6-AABC-D1FAF2B11D28} = {B6C5716A-437A-4C7D-AFF5-E3012A33CEEF}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFC5358D-74DB-4A34-8D24-4384E92C1A7A}
+	EndGlobalSection
+EndGlobal
